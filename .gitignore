@@ -1,0 +1,11 @@
+.env
+*.pyc
+__pycache__/
+sync_state.json
+sync_events.log
+uploaded_files.json
+inventory.json
+*.db
+.DS_Store
+venv/
+.venv/
